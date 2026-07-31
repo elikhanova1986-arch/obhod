@@ -16,7 +16,7 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 vless://f7d9d79e-2f0b-4a3a-a72f-4d72701fa0c3@45.91.54.13:43000?encryption=none&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=jD9wKG_3q01SLJrWy62FysSN2MbrceqrXGP2q7L9TTs&sid=a0658f9f&spx=%2F&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A3%D0%BC%D0%BD%D0%B0%D1%8F%20%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D1%8F?serverDescription=0J7QsdGF0L7QtCDRgdC10YLQuA== 
 
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@nl3.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=nl3.freeinternat.com&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&spx=/#🇪🇺🌍 Авто | Быстрый 
+vless://6e52ae57-37fd-4375-8c41-bc17a633bd42@rknporks.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rknporks.com&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇪🇺🌍 Авто | Быстрый 
 
 vless://7dc0d759-baf9-47ca-b838-f258c09d1d5b@103.119.18.140:43000?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=Y9yzW20LHQobmMOos-V2JA8Sl876Bt9urixbgY9Idho&sid=451f052a&spx=%2F&type=tcp&sni=#🇨🇿 Основной (ИИ)?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
