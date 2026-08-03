@@ -15,7 +15,6 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 #color-profile: eyJiYWNrZ3JvdW5kR3JhZGllbnRSb3RhdGlvbkFuZ2xlIjozNy4xLCJzZXJ2ZXJSb3dCYWNrZ3JvdW5kQ29sb3IiOiIjMEQxRDMwRkYiLCJzdWJzSGVhZGVyQ29sb3IiOiIjMDA0RjdGRkYiLCJwcm9maWxlV2ViUGFnZUljb25Db2xvciI6IiNGRUZGRUZGRiIsInNlbGVjdGVkU2VydmVyUm93Q29sb3IiOiIjMDA0RjdGQjUiLCJkaXNjbG9zdXJlU3ViSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uVGV4dENvbG9yIjoiIzAwQzg1M0ZGIiwiYnV0dG9uVGltZXJDb2xvciI6IiMwMEM4NTNGRiIsInN1YnNjcmlwdGlvbkluZm9CYWNrZ3JvdW5kQ29sb3IiOiIjMDA0RjdGRkYiLCJiYWNrZ3JvdW5kQ29sb3JzIjpbIiMwQzE4MzBGRiIsIiMxQzI4NDBGRiIsIiMyQzM4NTBGRiJdLCJkaXNjbG9zdXJlSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYmFja2dyb3VuZEdyYWRpZW50Q29sb3JJbnRlbnNpdHkiOjEsImFkZGl0aW9uYWxPcHRpb25zQnV0dG9uQ29sb3IiOiIjRkVGRkVGRkYiLCJidXR0b25JbWFnZVR5cGUiOiJkYXJrIiwic2VydmVyUm93U3ViVGl0bGVUZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzdXBwb3J0SWNvbkNvbG9yIjoiI0ZGRkZGRkZGIiwidG9wQmFyQnV0dG9uc0NvbG9yIjoiI0ZGRkZGRkZGIiwic3Vic2NyaXB0aW9uVHJhZmZpY0JhY2tncm91bmRDb2xvciI6IiMwMDNFQkVGRiIsInN1YkhlYWRlckJ1dHRvbkNvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uQ29sb3IiOiIjMUUxRTFFRkYiLCJwb3dlckljb25Db2xvciI6IiNGRUZGRUZGRiIsInN1YnNjcmlwdGlvbkluZm9UZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzZXJ2ZXJSb3dUaXRsZVRleHRDb2xvciI6IiNGRUZGRUZGRiIsImJhY2tncm91bmRJbWFnZVR5cGUiOiJzeXN0ZW0iLCJlbGlwc2VDb2xvcnMiOlsiIzAwNDdFOEZGIiwiIzAwM0JCRUZGIiwiRkVGRkVGRkZGIiwiaW1hZ2U6OiJdLCJzZXJ2ZXJSb3dDaGV2cm9uQ29sb3IiOiIjRkVGRkVGRkYifQ==
  
 
-vless://6e52ae57-37fd-4375-8c41-bc17a633bd42@rknporks.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rknporks.com&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇪🇺🌍 Авто | Быстрый?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
 
 vless://7dc0d759-baf9-47ca-b838-f258c09d1d5b@103.119.18.140:43000?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=Y9yzW20LHQobmMOos-V2JA8Sl876Bt9urixbgY9Idho&sid=451f052a&spx=%2F&type=tcp&sni=#🇨🇿 Основной (ИИ)?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
 
@@ -23,19 +22,6 @@ vless://7dc0d759-baf9-47ca-b838-f258c09d1d5b@103.119.18.140:43000?encryption=non
 vless://f7d9d79e-2f0b-4a3a-a72f-4d72701fa0c3@45.91.54.13:43000?encryption=none&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=jD9wKG_3q01SLJrWy62FysSN2MbrceqrXGP2q7L9TTs&sid=a0658f9f&spx=%2F&type=tcp#🇷🇺 Игровой?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
 
 
-
-
-
-
-
-
-
-
-vless://6e52ae57-37fd-4375-8c41-bc17a633bd42@secure-calai-login.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=secure-calai-login.com&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇪🇪 Эстония?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-
-
-vless://6e52ae57-37fd-4375-8c41-bc17a633bd42@filetransver-ultra.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=filetransver-ultra.com&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇫🇮 Финляндия?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
 
 
 vless://6e52ae57-37fd-4375-8c41-bc17a633bd42@rknporks.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rknporks.com&pbk=mk-fkkWvUHz2ubIOkr8kfDeglXowdCI3Z4OssjWIIwg&sid=2b145d99dc39e2cc#🇪🇺 Европа?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
@@ -46,55 +32,7 @@ vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@45.145.40.162:443?encryption=none&s
 
 vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@92.42.15.243:443?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&type=grpc&serviceName=grpc-tunnel&mode=multi#🇷🇺 Ютуб без рекламы?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
 
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@nl3.freeinternat.com:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl3.freeinternat.com&sid=6aa2d2e950441a9a#🇪🇺 Евросоюз ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
 
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@nl3.freeinternat.com:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl3.freeinternat.com&sid=6aa2d2e950441a9a#🇳🇱 Нидерланды ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@nl3.freeinternat.com:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl3.freeinternat.com&sid=6aa2d2e950441a9a#🇳🇱 Нидерланды ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@ang.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ang.freeinternat.com&sid=ff776ff77be48b88#🇬🇧 Великобритания ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@est2.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=est2.freeinternat.com&sid=ff776ff77be48b88#🇪🇪 Эстония ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@swed.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=swed.freeinternat.com&sid=ff776ff77be48b88#🇸🇪 Швеция ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@swed2.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=swed2.freeinternat.com&sid=ff776ff77be48b88#🇸🇪 Швеция ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@pol3.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pol3.freeinternat.com&sid=ff776ff77be48b88#🇵🇱 Польша ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@pol.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=pol.freeinternat.com&sid=ff776ff77be48b88#🇵🇱 Польша ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@cz.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cz.freeinternat.com&sid=ff776ff77be48b88#🇨🇿 Чехия ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@lit.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lit.freeinternat.com&sid=ff776ff77be48b88#🇱🇹 Литва ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@germ2.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=germ2.freeinternat.com&sid=ff776ff77be48b88#🇩🇪 Германия ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@germ.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=germ.freeinternat.com&sid=ff776ff77be48b88#🇩🇪 Германия ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@alban.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=alban.freeinternat.com&sid=ff776ff77be48b88#🇦🇱 Албания ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@rf3.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=rf3.freeinternat.com&sid=ff776ff77be48b88#🇷🇺 Россия ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@tur2.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tur2.freeinternat.com&sid=ff776ff77be48b88#🇹🇷 Турция ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@ukri.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ukri.freeinternat.com&sid=ff776ff77be48b88#🇺🇦 Украина ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@bulg.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=bulg.freeinternat.com&sid=ff776ff77be48b88#🇧🇬 Болгария ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@lat.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=lat.freeinternat.com&sid=ff776ff77be48b88#🇱🇻 Латвия ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@sp.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sp.freeinternat.com&sid=ff776ff77be48b88#🇪🇸 Испания ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@jap.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=jap.freeinternat.com&sid=ff776ff77be48b88#🇯🇵 Япония ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@amer.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=amer.freeinternat.com&sid=ff776ff77be48b88#🇺🇸 США ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@tur.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tur.freeinternat.com&sid=ff776ff77be48b88#🇺🇸 США ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@kz.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=kz.freeinternat.com&sid=ff776ff77be48b88#🇰🇿 Казахстан ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@gr.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=gr.freeinternat.com&sid=ff776ff77be48b88#🇬🇷 Греция ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
 
 vless://e7edcdf4-aa97-4b31-8c78-8b5791eba656@nl8.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl8.helper-internet.com&sid=ff776ff77be48b88#🇪🇺 Евросоюз ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
 
