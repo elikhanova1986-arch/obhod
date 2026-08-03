@@ -1,7 +1,7 @@
-#subscription-userinfo: upload=11; download=0; total=0; expire=999999999999999
+#subscription-userinfo: upload=11; download=0; total=0; expire=1817683200
 #profile-title: 𝐒𝐮𝐥𝐢𝐦 𝐕𝐏𝐍 🔐
 #profile-update-interval: 1
-#subscription-update-interval: 1
+#subscription-update-interval:1
 #announce: Если VPN не работает нажмите 🔄 , после ⏱️ и выберите сервер с наименьшим показателем ms!
 #support-url: https://wa.me/79639864491
 #profile-web-page-url: https://wa.me/79639864491
