@@ -15,25 +15,31 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 #color-profile: eyJiYWNrZ3JvdW5kR3JhZGllbnRSb3RhdGlvbkFuZ2xlIjozNy4xLCJzZXJ2ZXJSb3dCYWNrZ3JvdW5kQ29sb3IiOiIjMEQxRDMwRkYiLCJzdWJzSGVhZGVyQ29sb3IiOiIjMDA0RjdGRkYiLCJwcm9maWxlV2ViUGFnZUljb25Db2xvciI6IiNGRUZGRUZGRiIsInNlbGVjdGVkU2VydmVyUm93Q29sb3IiOiIjMDA0RjdGQjUiLCJkaXNjbG9zdXJlU3ViSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uVGV4dENvbG9yIjoiIzAwQzg1M0ZGIiwiYnV0dG9uVGltZXJDb2xvciI6IiMwMEM4NTNGRiIsInN1YnNjcmlwdGlvbkluZm9CYWNrZ3JvdW5kQ29sb3IiOiIjMDA0RjdGRkYiLCJiYWNrZ3JvdW5kQ29sb3JzIjpbIiMwQzE4MzBGRiIsIiMxQzI4NDBGRiIsIiMyQzM4NTBGRiJdLCJkaXNjbG9zdXJlSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYmFja2dyb3VuZEdyYWRpZW50Q29sb3JJbnRlbnNpdHkiOjEsImFkZGl0aW9uYWxPcHRpb25zQnV0dG9uQ29sb3IiOiIjRkVGRkVGRkYiLCJidXR0b25JbWFnZVR5cGUiOiJkYXJrIiwic2VydmVyUm93U3ViVGl0bGVUZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzdXBwb3J0SWNvbkNvbG9yIjoiI0ZGRkZGRkZGIiwidG9wQmFyQnV0dG9uc0NvbG9yIjoiI0ZGRkZGRkZGIiwic3Vic2NyaXB0aW9uVHJhZmZpY0JhY2tncm91bmRDb2xvciI6IiMwMDNFQkVGRiIsInN1YkhlYWRlckJ1dHRvbkNvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uQ29sb3IiOiIjMUUxRTFFRkYiLCJwb3dlckljb25Db2xvciI6IiNGRUZGRUZGRiIsInN1YnNjcmlwdGlvbkluZm9UZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzZXJ2ZXJSb3dUaXRsZVRleHRDb2xvciI6IiNGRUZGRUZGRiIsImJhY2tncm91bmRJbWFnZVR5cGUiOiJzeXN0ZW0iLCJlbGlwc2VDb2xvcnMiOlsiIzAwNDdFOEZGIiwiIzAwM0JCRUZGIiwiRkVGRkVGRkZGIiwiaW1hZ2U6OiJdLCJzZXJ2ZXJSb3dDaGV2cm9uQ29sb3IiOiIjRkVGRkVGRkYifQ==
  
 
-vless://bfd7b051-8535-49a9-bc2d-fe005f5fdde5@142.91.106.31:23535?encryption=none&type=tcp&security=none#🇯🇵 Основной 💊?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
-
-
-vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@103.213.249.39:28139?encryption=none&type=tcp&security=none#🇷🇺Россия?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
-
-vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@103.213.249.39:28139?encryption=none&type=tcp&security=none#🇷🇺 Игровой?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@nl3.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=nl3.freeinternat.com&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=6aa2d2e950441a9a&spx=/#🇪🇺🌍 Авто | Быстрый?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
 
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@est2.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=est2.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#🇪🇪Основной (ИИ)?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
-vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@193.42.12.62:443?type=grpc&security=reality&encryption=none&sni=dl.google.com&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&fp=firefox&serviceName=grpc-tunnel&authority=dl.google.com#🇩🇪 Германия |1
+vless://1aca90d0-45ad-4c35-8574-88293932a39c@45.136.57.205:27579?encryption=none&security=none&type=tcp#🇰🇿 Казахстан?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+
+vless://115ba91f-fac5-403e-a827-2412e18acf6f@himoy.space:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=himoy.space&pbk=0D3YBiGbKp7f2jtEQsnLWy_l-yWYXdHiAQ81wM_P2zk&sid=108941c9c3756b69#🇨🇿 Чехия (ИИ)?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+
+vless://e1f3ba5e-57bb-4a6f-ada7-55eea74c5a3a@gb1.murhost.network:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=gb1.murhost.network&pbk=-nB-tCeZ4Zr72ArHUKnbUphbs4PlBS6iId6PkrPQQTE&sid=84f9881951050a30#🇫🇮 Финляндия?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
 
+vless://e1f3ba5e-57bb-4a6f-ada7-55eea74c5a3a@nl2.murhost.network:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=nl2.murhost.network&pbk=rkRBWVPGbMdh1UXAMu0I019NbBFWoBh4W1T856oyl2o&sid=bbab5af2663db00a#🇪🇺 Европа?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
-vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@91.92.43.108:443?type=grpc&security=reality&encryption=none&sni=dl.google.com&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&fp=firefox&serviceName=grpc-tunnel&authority=dl.google.com#🇩🇪 Германия |2 
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@est2.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=est2.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
-vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@45.145.40.166:443?type=grpc&security=reality&encryption=none&sni=dl.google.com&pbk=ysoFZHGTbe5lg9yfdp8M7VxdAqPA65oKydUsbkyxQlg&sid=35c0eeec68c37745&fp=qq&serviceName=grpc-tunnel#🇩🇪 Германия |3
+vless://ac107686-cec5-48c1-91d5-56c8274b5471@194.55.239.239:6443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=XlPZy538jkCt-VNtnLXcwjtrTSaVrM2AzIWq_rh7pRU&sid=51d04ca6fb10#🇦🇱 Албания?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
 
-vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@193.42.12.62:443?type=grpc&security=reality&encryption=none&sni=dl.google.com&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&fp=firefox&serviceName=grpc-tunnel&authority=dl.google.com#🇩🇪 Германия |3
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@cz.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cz.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#🇵🇰 Для ВАТСАП
+
+vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@103.213.249.39:28139?encryption=none&type=tcp&security=none#🇷🇺 Игровой 🎮?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@rf3.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rf3.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20(YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B)?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
+
 
 vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@82.40.63.45:443?type=grpc&security=reality&encryption=none&sni=dl.google.com&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&fp=firefox&serviceName=grpc-tunnel#🇳🇱 Нидерланды |1
 
