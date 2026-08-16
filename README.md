@@ -45,31 +45,6 @@ vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@rf3.freeinternat.com:443?flow=xtls-
 
 
 
-
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@cz.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cz.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#🇵🇰 Для ВАТСАП
-
-vless://5b2b4ae4-b789-4624-919e-4d804e5b10fa@103.213.249.39:28139?encryption=none&type=tcp&security=none#🇷🇺 Игровой 🎮?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
-
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@rf3.freeinternat.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=rf3.freeinternat.com&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=/#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20(YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B)?serverDescription=0L3QtdGCINC30LDQs9C70YPRiNC60Lg
-
-
-vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@82.40.63.45:443?type=grpc&security=reality&encryption=none&sni=dl.google.com&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&fp=firefox&serviceName=grpc-tunnel#🇳🇱 Нидерланды |1
-
-
-
-
-vless://0b5fa773-27bf-41eb-9d46-de30cbe7fee3@de-fra-ncp-114.easygo.weatherkit.net:50051?type=grpc&mode=multi&serviceName=&security=reality&fp=firefox&sni=jobinvest.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇳🇱 Нидерланды |2
-
-
-vless://0b5fa773-27bf-41eb-9d46-de30cbe7fee3@bridge.easygo.fuck-rkn.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=jobinvest.ru&security=reality&type=tcp&headerType=none#🇳🇱 Нидерланды |3
-
-vless://f7342ae8-1bee-4f62-9ee1-d57e742c6110@node-br-1.v2sv.top:2053?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=wup-ironhearttest.ind.v2.customers.biocatch.com&sid=b85e293fa1#🇧🇷 Бразилия ?serverDescription=0L7QsdGF0L7QtCDRgdC10YLQuOKchQ
-
-vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@92.42.15.243:443?type=grpc&security=reality&encryption=none&sni=dl.google.com&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&fp=qq&serviceName=grpc-tunnel#%F0%9F%87%B7%F0%9F%87%BA%20%D0%AE%D1%82%D1%83%D0%B1%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B
-
-
-vless://09f76081-4c62-4adf-b2fb-5c180fe51bf2@111.88.223.82:443?type=grpc&security=reality&encryption=none&sni=dl.google.com&pbk=6CHUluOn_Tdab7JOfUArmcfQPVEd4PbEQJMPvKWElhw&fp=qq&serviceName=grpc-tunnel#%F0%9F%87%B7%F0%9F%87%BA%20%D0%AE%D1%82%D1%83%D0%B1%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20%E2%84%962
-
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@nl3.freeinternat.com:443?security=reality&encryption=none&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl3.freeinternat.com&sid=6aa2d2e950441a9a#🇪🇺 VPN | 1
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@rf3.freeinternat.com:443?security=reality&encryption=none&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=rf3.freeinternat.com&sid=ff776ff77be48b88#🇪🇺 VPN | 2
 vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@alban5.helper-internet.com:443?security=reality&encryption=none&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=alban5.helper-internet.com&sid=ff776ff77be48b88#🇪🇺 VPN | 3
